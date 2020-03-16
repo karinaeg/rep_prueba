@@ -1,4 +1,4 @@
-#Proyecto de Cómputo Distribuido
+**Proyecto de Cómputo Distribuido**
 
 **Equipo:**
 Aliadxs Sin Fronteras.
